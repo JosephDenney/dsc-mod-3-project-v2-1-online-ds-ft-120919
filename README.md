@@ -56,6 +56,7 @@ This will be an unbalanced multi-class classification problem; because of this w
         
 </details>
 
+
 # Model
 <details>
   <summary>Click to read about modeling the data! </summary>
@@ -70,7 +71,8 @@ This will be an unbalanced multi-class classification problem; because of this w
       * Environment
   * With this completed we will now use the best model and hyper tuned the parameters to try to produce better results for our test set
   * Once that is complete, the model is trained, tunned and able to produce the best results out of our other variables
-  
+
+</details>  
   
 
 # Interpert
@@ -88,7 +90,8 @@ This will be an unbalanced multi-class classification problem; because of this w
     
     * As you can see there the diagonal boxes (from left to right) show the true positive predictions (meaning that the model predicted them and it was correct)
     * The other boxes predict the different false positive/false negative depending in accordance to the values you look at
-  
+
+</details>  
 
 # Future Work
 <details>
@@ -98,6 +101,8 @@ This will be an unbalanced multi-class classification problem; because of this w
   
   * Obtain more clean data (especially of smaller value class) in order for the models to train better and become more accurate
   * Create an additional model for each corresponding binned class to use to be able to predict the true original target/class
+</details>
+
 
 # Final Project Submission
 
