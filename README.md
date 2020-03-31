@@ -112,5 +112,6 @@ This will be an unbalanced multi-class classification problem; because of this w
 * Instructor name: Rafael
 * Blog post URL: https://aradjabova.github.io/multi-class_classification_-_power_of_bins
 * Presentation: Case study.pdf
+* Video : https://youtu.be/U6ZGZ95g3Rk
 * Notebooks: https://colab.research.google.com/drive/16MELNTjcsR9bTu4jv_80CuMwJZNHfkFU
 
